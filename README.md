@@ -5,9 +5,6 @@ This is useful for pattern classification (specifically with deep neural network
 
 # Contributors
 Pratik Ahmed
-
 Soumyadeep Kundu
-
 Ram Sarkar
-
 Ayatullah Faruk Mollah
