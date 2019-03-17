@@ -1,5 +1,5 @@
 # HAND
 Handwritten Arabic Numerals Dataset
 
-# Contributors
+Contributors
 Ayatullah Faruk Mollah
