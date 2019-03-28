@@ -3,11 +3,20 @@ Handwritten Arabic Numerals Dataset contains 72,000 handwritten Arabic numerals.
 
 This is useful for pattern classification (specifically with deep neural networks).
 
-# Contributors
-Pratik Ahmed, 
+## Summary
+[To Write]
 
-Soumyadeep Kundu, 
+## Related Paper
+[To Write]
 
-Ram Sarkar, 
+## Published Work(s)
+[To Write]
 
-Ayatullah Faruk Mollah
+## Contributors
+* Pratik Ahmed, 
+* Soumyadeep Kundu, 
+* Ram Sarkar, 
+* Ayatullah Faruk Mollah
+
+## Contact 
+Email: iilab.cse@gmail.com
